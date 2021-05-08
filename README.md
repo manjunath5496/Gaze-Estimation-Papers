@@ -51,8 +51,7 @@ Embedding with Prediction Consistency</a></li>
 with a Constrained Landmark-Gaze Model</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(25).pdf" style="text-decoration:none;">Few-Shot Adaptive Gaze Estimation</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(26).pdf" style="text-decoration:none;">Certifying a File System Using
-Crash Hoare Logic: Correctness in the Presence of Crashes</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(26).pdf" style="text-decoration:none;">Appearance-based Eye Gaze Estimation</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(27).pdf" style="text-decoration:none;">Photo-Realistic Monocular Gaze Redirection Using Generative Adversarial Networks</a></li>
    
  
@@ -68,5 +67,7 @@ Crash Hoare Logic: Correctness in the Presence of Crashes</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(33).pdf" style="text-decoration:none;">In the Eye of Beholder: Joint Learning of Gaze and Actions in First Person Video</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(34).pdf" style="text-decoration:none;">EyeGAN: Gaze–Preserving, Mask–Mediated Eye Image Synthesis</a></li> 
- 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(35).pdf" style="text-decoration:none;">A Differential Approach for Gaze Estimation</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(36).pdf" style="text-decoration:none;">Deep Pictorial Gaze Estimation</a></li> 
   <ul>
