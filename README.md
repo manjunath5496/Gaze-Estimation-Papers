@@ -4,80 +4,69 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(1).pdf" style="text-decoration:none;">CoqIOA: A Formalization of IO Automata in the
-Coq Proof Assistant</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(1).pdf" style="text-decoration:none;">ETH-XGaze: A Large Scale Dataset
+for Gaze Estimation under Extreme Head Pose and Gaze Variation</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(2).pdf" style="text-decoration:none;">An Offline Foundation for
-Online Accountable Pseudonyms</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(2).pdf" style="text-decoration:none;">Self-supervised learning through the eyes of a child</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(3).pdf" style="text-decoration:none;">A Programming Language
-Based on Classical Logic</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(4).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(5).pdf" style="text-decoration:none;">Mobile Computing with the Rover Toolkit</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(6).pdf" style="text-decoration:none;">Improving Network Connection Locality on Multicore Systems</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(7).pdf" style="text-decoration:none;">Asynchronous intrusion recovery
-for interconnected web services</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(3).pdf" style="text-decoration:none;">Learning to Detect Head Movement in Unconstrained Remote Gaze Estimation in the Wild</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(4).pdf" style="text-decoration:none;">Learning-based Region Selection for
+End-to-End Gaze Estimation</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(5).pdf" style="text-decoration:none;">Towards End-to-end Video-based Eye-Tracking</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(6).pdf" style="text-decoration:none;">Deep Learning-based Pupil Center Detection for Fast and Accurate Eye Tracking System</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(7).pdf" style="text-decoration:none;">A Hierarchical Generative Model for Eye Image Synthesis and Eye Gaze Estimation</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(8).pdf" style="text-decoration:none;"> Performance Optimization of the VDFS Verified
-File System </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(9).pdf" style="text-decoration:none;">Algorand: Scaling Byzantine Agreements
-for Cryptocurrencies</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(8).pdf" style="text-decoration:none;"> Dynamic Fusion of Eye Movement Data and Verbal Narrations in Knowledge-Rich Domains </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(9).pdf" style="text-decoration:none;">Mixed Effects Neural Networks (MeNets) with Applications to Gaze Estimation</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(10).pdf" style="text-decoration:none;">Alpaca: Extensible Authorization for Distributed Services </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(11).pdf" style="text-decoration:none;">A Concurrency-Optimal Binary Search Tree</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(12).pdf" style="text-decoration:none;">Alpenhorn: Bootstrapping Secure Communication without Leaking Metadata</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(13).pdf" style="text-decoration:none;">Amber: Decoupling User Data from Web Applications</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(10).pdf" style="text-decoration:none;">Offset Calibration for Appearance-Based Gaze Estimation via Gaze Decomposition </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(11).pdf" style="text-decoration:none;">Gaze360: Physically Unconstrained Gaze Estimation in the Wild</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(12).pdf" style="text-decoration:none;">Gaze360: Physically Unconstrained Gaze Estimation in the Wild</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(13).pdf" style="text-decoration:none;">Gaze Estimation for Assisted Living Environments</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(14).pdf" style="text-decoration:none;">Quboid: A Workstation for Safer Web Interaction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(14).pdf" style="text-decoration:none;">Improving Few-Shot User-Specific Gaze Adaptation via Gaze Redirection Synthesis</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(15).pdf" style="text-decoration:none;">Argosy: Verifying Layered Storage Systems with
-Recovery Refinement</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(15).pdf" style="text-decoration:none;">RT-GENE: Real-Time Eye Gaze Estimation
+in Natural Environments</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(16).pdf" style="text-decoration:none;">LRC: Dependency-Aware Cache Management
-for Data Analytics Clusters</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(16).pdf" style="text-decoration:none;">Gaze Prediction in Dynamic 360◦ Immersive Videos</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(17).pdf" style="text-decoration:none;">Make Least Privilege a Right (Not a Privilege)</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(17).pdf" style="text-decoration:none;">Multiple-gaze geometry: Inferring novel 3D locations from gazes observed in monocular video</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(18).pdf" style="text-decoration:none;">Labels and Event Processes
-in the Asbestos Operating System</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(18).pdf" style="text-decoration:none;">The Past, Present, and Future of Gaze-enabled Handheld Mobile Devices: Survey and Lessons Learned</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(19).pdf" style="text-decoration:none;">Privacy-Preserving Browser-Side Scripting With BFlow</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(19).pdf" style="text-decoration:none;">Self-Learning Transformations for Improving Gaze and Head Redirection</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(20).pdf" style="text-decoration:none;">The benefits and costs of writing a
-POSIX kernel in a high-level language</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(20).pdf" style="text-decoration:none;">Domain Adaptation Gaze Estimation by
+Embedding with Prediction Consistency</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(21).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX Kernel in a High-Level Language</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(22).pdf" style="text-decoration:none;">LLVM: A Compilation Framework for
-Lifelong Program Analysis and Transformation</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(23).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX
-Kernel in a High-Level Language [Cody Cutler]</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(21).pdf" style="text-decoration:none;">Unsupervised Representation Learning for Gaze Estimation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(22).pdf" style="text-decoration:none;">Understanding Human Gaze Communication by Spatio-Temporal Graph Reasoning</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(23).pdf" style="text-decoration:none;">Improving Natural Language Processing Tasks with Human Gaze-Guided Neural Attention</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(24).pdf" style="text-decoration:none;">Separating Web Applications from User Data Storage with BSTORE</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(24).pdf" style="text-decoration:none;">Deep Multitask Gaze Estimation
+with a Constrained Landmark-Gaze Model</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(25).pdf" style="text-decoration:none;">A Methodical Study of Web Crawler</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(25).pdf" style="text-decoration:none;">Few-Shot Adaptive Gaze Estimation</a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(26).pdf" style="text-decoration:none;">Certifying a File System Using
 Crash Hoare Logic: Correctness in the Presence of Crashes</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(27).pdf" style="text-decoration:none;">A Differential Approach to
-Undefined Behavior Detection</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(27).pdf" style="text-decoration:none;">Photo-Realistic Monocular Gaze Redirection Using Generative Adversarial Networks</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(28).pdf" style="text-decoration:none;">Reducing Pause Times with Clustered Collection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(28).pdf" style="text-decoration:none;">A history of eye gaze tracking</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(29).pdf" style="text-decoration:none;">Reducing Pause Times With Clustered Collection [Cody Cutler] </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(29).pdf" style="text-decoration:none;">RGBD Based Gaze Estimation via Multi-Task CNN </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(30).pdf" style="text-decoration:none;">Certifying Program Execution with Secure Processors</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(30).pdf" style="text-decoration:none;">A Survey on Gaze Estimation Techniques in Smartphone</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(31).pdf" style="text-decoration:none;">Providing a Shared File System in the Hare
-POSIX Multikernel</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(32).pdf" style="text-decoration:none;">Linux kernel vulnerabilities:
-State-of-the-art defenses and open problems</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(31).pdf" style="text-decoration:none;">A Coarse-to-Fine Adaptive Network for Appearance-Based Gaze Estimation</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(32).pdf" style="text-decoration:none;">Appearance-Based Gaze Estimation via Evaluation-Guided Asymmetric Regression</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(33).pdf" style="text-decoration:none;">Robust and Efficient Data Management for a Distributed Hash Table</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(33).pdf" style="text-decoration:none;">In the Eye of Beholder: Joint Learning of Gaze and Actions in First Person Video</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(34).pdf" style="text-decoration:none;">Choosing Internet Paths with High Bulk Transfer Capacity</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/g(34).pdf" style="text-decoration:none;">EyeGAN: Gaze–Preserving, Mask–Mediated Eye Image Synthesis</a></li> 
  
   <ul>
